@@ -19,3 +19,5 @@ WorkFlow
 7. apop_pan_can_sim_intersect.ipynb : finds intersecting genes between two cancers, also lists HR etc for those genes
    cancan_cutoffwise.ipynb : lists no of gpm/bpm genes in 33 cancers at different HR cutoffs.
    dendro.ipynb : for creating dendrograms
+
+8. similarity_matrix_pancan.ipynb : code to evaluate 8 diff similarity coefficients (33x33 matrices, density plots and single column pairwise files)
